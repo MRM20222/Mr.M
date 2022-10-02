@@ -1,2 +1,12 @@
-# Mr.M
-Horizontal ComingSoon
+# Set Termux
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Coming soon📂
